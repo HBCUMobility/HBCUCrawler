@@ -44,4 +44,10 @@ From this file, you can input PROJECT_NAME (university/directory name), and HOME
 
 ## Caveats
 
-If you are encountering errors like `SSL: CERTIFICATE_VERIFY_FAILED` when running the code, you should install the certificates for you local Python. This can be done by running `/Applications/Python\ 3.10/Install\ Certificates.command` and adapting the execution to your version of Python and OS.
+If you are encountering errors like `SSL: CERTIFICATE_VERIFY_FAILED` when running the code, you should install the certificates for you local Python. This can be done by running:
+
+```
+/Applications/Python\ 3.10/Install\ Certificates.command
+```
+
+...and adapting the execution to your version of Python and OS.
