@@ -1,4 +1,4 @@
-# SiteMaps
+# HBCUCrawler
 TimeMap crawler
 
 ## Goal
